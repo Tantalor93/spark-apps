@@ -11,5 +11,6 @@
 
     <modules>
         <module>spark-app</module>
+        <module>spark-stream-app</module>
     </modules>
 </project>
