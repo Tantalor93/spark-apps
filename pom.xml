@@ -12,5 +12,6 @@
     <modules>
         <module>spark-app</module>
         <module>spark-stream-app</module>
+        <module>spark-stateful-stream-app</module>
     </modules>
 </project>
