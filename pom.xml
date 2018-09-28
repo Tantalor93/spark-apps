@@ -14,5 +14,6 @@
         <module>spark-stream-app</module>
         <module>spark-stateful-stream-app</module>
         <module>spark-kafka-stream-app</module>
+        <module>spark-kafka-sql-app</module>
     </modules>
 </project>
